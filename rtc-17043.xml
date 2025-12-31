@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17043"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17043"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17043"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17043/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17043/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17043/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17043/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17043">
+              <num>17043</num>
+              <heading>Section 17043</heading>
+              <subsection eId="sec_17043__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>For each taxable year beginning on or after January 1, 2005, in addition to any other taxes imposed by this part, an additional tax shall be imposed at the rate of 1 percent on that portion of a taxpayer’s taxable income in excess of one million dollars ($1,000,000).</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17043__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>For purposes of applying Part 10.2 (commencing with Section 18401) of Division 2, the tax imposed under this section shall be treated as
+					 if imposed under Section 17041.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17043__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>The following shall not apply to the tax imposed by this section:</p>
+                </content>
+                <paragraph eId="sec_17043__subsec_c__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>The provisions of Section 17039, relating to the allowance of credits.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17043__subsec_c__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The provisions of Section 17041, relating to filing status and recomputation of the income tax brackets.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

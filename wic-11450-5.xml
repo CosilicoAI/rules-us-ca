@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/11450.5"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11450.5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="11450.5"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/11450.5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11450.5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/11450.5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11450.5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_3">
+          <num>3</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <article eId="art_6">
+              <num>6</num>
+              <section eId="sec_11450-5">
+                <num>11450.5</num>
+                <heading>For purposes of computing and paying aid grants under this chapter, the director shall adopt regulations establishing a budgeting system consistent with Sections 11265</heading>
+                <content>
+                  <p>Welfare and Institutions Code - WIC
+DIVISION 9. PUBLIC SOCIAL SERVICES [10000 - 18999.98]
+( Division 9 added by Stats. 1965, Ch. 1784. )
+PART 3. AID AND MEDICAL ASSISTANCE [11000 - 15771]
+( Part 3 added by Stats. 1965, Ch. 1784. )
+CHAPTER 2. California Work Opportunity and Responsibility to Kids Act [11200 - 11526.5]
+( Heading of Chapter 2 amended by Stats. 1997, Ch. 270, Sec. 49. )
+ARTICLE 6. Computation and Payment of Aid Grants [11450 - 11469.3]
+( Article 6 added by Stats. 1965, Ch. 1784. )
+11450.5.
+For purposes of computing and paying aid grants under this chapter, the director shall adopt regulations establishing a budgeting system consistent with Sections 11265.1, 11265.2, and 11265.3. Nothing in this section, or Sections 11004, 11257 and 11450, or any other provision of this code, shall be interpreted as prohibiting the
+				establishment of, or otherwise restricting the operation of, any budgeting system adopted by the director.
+(Amended by Stats. 2002, Ch. 1022, Sec. 38.   Effective September 28, 2002.   Became operative on January 30, 2004, pursuant to Sec. 70 of Ch. 1022.)</p>
+                </content>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 2002, Ch. 1022, Sec. 38.   Effective September 28, 2002.   Became operative on January 30, 2004, pursuant to Sec. 70 of Ch. 1022.)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

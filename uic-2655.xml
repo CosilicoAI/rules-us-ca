@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="UIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/uic/2655"/>
+          <FRBRuri value="/akn/us-ca/act/uic/2655"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="2655"/>
+          <FRBRname value="UIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/uic/2655/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/uic/2655/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/uic/2655/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/uic/2655/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_1">
+        <num>1</num>
+        <part eId="part_2">
+          <num>2</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <article eId="art_2">
+              <num>2</num>
+              <section eId="sec_2655">
+                <num>2655</num>
+                <heading>Section 2655</heading>
+                <subsection eId="sec_2655__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>Except as provided in subdivisions</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>,</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>,</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>,</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>, and</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>, an individual’s “weekly benefit amount” shall be the amount appearing in column B in the table set forth in this subdivision on the line of which in column A of the table there appears the wage bracket containing the amount of wages paid to the individual for employment by employers during the quarter of the individual’s disability base period in which wages were the highest.
+A
+Amount of wages in
+highest quarter
+B
+Weekly benefit
+amount
+$75–1,149.99
+			........................
+$50
+1,150–1,174.99
+			........................
+51
+1,175–1,199.99
+			........................
+52
+1,200–1,224.99
+			........................
+53
+1,225–1,249.99
+			........................
+54
+1,250–1,274.99
+			........................
+55
+1,275–1,299.99
+			........................
+56
+1,300–1,324.99
+			........................
+57
+1,325–1,349.99
+			........................
+58
+1,350–1,374.99
+			........................
+59
+1,375–1,399.99
+			........................
+60
+1,400–1,424.99
+			........................
+61
+1,425–1,449.99
+			........................
+62
+1,450–1,474.99
+			........................
+63
+1,475–1,499.99
+			........................
+64
+1,500–1,524.99
+			........................
+65
+1,525–1,549.99
+			........................
+66
+1,550–1,574.99
+			........................
+67
+1,575–1,599.99
+			........................
+68
+1,600–1,624.99
+			........................
+69
+1,625–1,649.99
+			........................
+70
+1,650–1,674.99
+			........................
+71
+1,675–1,699.99
+			........................
+72
+1,700–1,724.99
+			........................
+73
+1,725–1,749.20
+			........................
+74</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>For periods of disability commencing on or after January 1, 1990, and prior to January 1, 1991, if the amount of wages paid an individual for employment by employers during the quarter of the individual’s disability base period in which these wages were highest exceeds one thousand seven hundred forty-nine dollars and twenty cents ($1,749.20), the weekly benefit amount shall be 55 percent of these wages divided by 13, but not exceeding two hundred
+						sixty-six dollars ($266) or the maximum workers’ compensation temporary disability indemnity weekly benefit amount, whichever is less. If the benefit payable under this subdivision is not a multiple of one dollar ($1), it shall be computed to the next higher multiple of one dollar ($1).</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>For periods of disability commencing on or after January 1, 1991, but before January 1, 2000, if the amount of wages paid an individual for employment by employers during the quarter of the individual’s disability base period in which these wages were highest exceeds one thousand seven hundred forty-nine dollars and twenty cents ($1,749.20), the weekly benefit amount shall be 55 percent of these wages divided by 13, but not exceeding three hundred thirty-six dollars ($336). If the benefit payable under this subdivision is not a multiple of one dollar
+						($1), it shall be computed to the next higher multiple of one dollar ($1).</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_2655__subsec_d">
+                  <num>(d)</num>
+                  <paragraph eId="sec_2655__subsec_d__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>Notwithstanding the maximum workers’ compensation temporary disability indemnity weekly benefit amount of paragraph</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_2655__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>For periods of disability commencing on and after January 1, 2018, but before January 1, 2025, an individual’s “weekly benefit amount” shall be as follows:</p>
+                  </content>
+                  <paragraph eId="sec_2655__subsec_e__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>Except as provided in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_2655__subsec_e__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>An individual’s “weekly benefit amount” shall not exceed the maximum workers’ compensation temporary disability
+						indemnity weekly benefit amount established by the Department of Industrial Relations pursuant to Section 4453 of the Labor Code.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_2655__subsec_f">
+                  <num>(f)</num>
+                  <paragraph eId="sec_2655__subsec_f__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>Notwithstanding the maximum workers’ compensation temporary disability indemnity weekly benefit amount of paragraph</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_2655__subsec_g">
+                  <num>(g)</num>
+                  <content>
+                    <p>For purposes of this section:</p>
+                  </content>
+                  <paragraph eId="sec_2655__subsec_g__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>“State average quarterly wage” means the state average weekly wage multiplied by 13.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 2022, Ch. 878, Sec. 2.   (SB 951)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

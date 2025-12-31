@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17041"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17041">
+              <num>17041</num>
+              <heading>Section 17041</heading>
+              <subsection eId="sec_17041__subsec_a">
+                <num>(a)</num>
+                <paragraph eId="sec_17041__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>There shall be imposed for each taxable year upon the entire taxable income of every resident of this state who is not a part-year resident, except the head of a household as defined in Section 17042, taxes in the following amounts and at the following rates upon the amount of taxable income computed for the taxable year as if the
+					 resident were a resident of this state for the entire taxable year and for all prior taxable years for any carryover items, deferred income, suspended losses, or suspended deductions:
+If the taxable income is:
+The tax is:
+Not over $3,650 
+			........................
+1% of the taxable income
+Over $3,650 but not
+over $8,650 
+			........................
+$36.50 plus 2% of the excess
+over $3,650
+Over $8,650 but not
+over $13,650 
+			........................
+$136.50 plus 4% of the excess
+over $8,650
+Over $13,650 but not
+over $18,950 
+			........................
+$336.50 plus 6% of the excess
+over $13,650
+Over $18,950 but not
+over $23,950 
+			...................</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>For taxable years beginning on or after January 1, 2009,
+					 and before January 1, 2011, the percentages specified in the table in paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>shall be increased by adding 0.25 percent to each percentage.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_b">
+                <num>(b)</num>
+                <paragraph eId="sec_17041__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>There shall be imposed for each taxable year upon the taxable income of every nonresident or part-year resident, except the head of a household as defined in Section 17042, a tax as calculated in paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_b__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_b__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The tax imposed under paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>shall be calculated by multiplying the “taxable income of a nonresident or part-year resident,” as defined in subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>, by a rate (expressed as a percentage) equal to the tax computed under subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>on the entire taxable income of the nonresident or part-year resident as if the nonresident or part-year resident were a resident of this state for the taxable year and as if the nonresident or part-year resident were a resident of this state for all
+					 prior taxable years for any carryover items, deferred income, suspended losses, or suspended deductions, divided by the amount of that income.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_c">
+                <num>(c)</num>
+                <paragraph eId="sec_17041__subsec_c__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>There shall be imposed for each taxable year upon the entire taxable income of every resident of this state who is not a part-year resident for that taxable year, when the resident is the head of a household, as defined in Section 17042, taxes in the following amounts and at the following rates upon the amount of taxable income computed for the taxable year as if the resident were a resident of the state for the entire taxable year and for all prior taxable years for carryover items, deferred income, suspended losses, or suspended deductions:
+If the taxable income is:
+The tax is:
+Not over $7,300 
+			........................
+1% of the taxable income
+Over $7,300 but not
+over $17,300 
+			........................
+$73 plus 2% of the excess
+over $7,300
+Over $17,300 but not
+over $22,300 
+			........................
+$273 plus 4% of the excess
+over $17,300
+Over $22,300 but not
+over $27,600 
+			........................
+$473 plus 6% of the excess
+over $22,300
+Over $27,600 but not
+over $32,600 
+		</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_c__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>For taxable years beginning on or after January 1, 2009, and before January 1, 2011, the percentages specified in the table in paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_c__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>shall be increased by adding 0.25 percent to each percentage.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_d">
+                <num>(d)</num>
+                <paragraph eId="sec_17041__subsec_d__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>There shall be imposed for each taxable year upon the taxable income of every nonresident or part-year resident when the nonresident or part-year
+					 resident is the head of a household, as defined in Section 17042, a tax as calculated in paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_d__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_d__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The tax imposed under paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_d__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>shall be calculated by multiplying the “taxable income of a nonresident or part-year resident,” as defined in subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>, by a rate (expressed as a percentage) equal to the tax computed under subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>on the entire taxable income of the nonresident or part-year resident as if the nonresident or part-year resident were a resident of this state for the taxable year and as if the nonresident or part-year resident were a resident of this state for all prior taxable years for any carryover items, deferred income, suspended losses, or suspended deductions, divided by the amount of that income.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>There shall be imposed for each taxable year upon the taxable income of every estate, trust, or common trust fund taxes equal to the
+					 amount computed under subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>for an individual having the same amount of taxable income.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_f">
+                <num>(f)</num>
+                <content>
+                  <p>The tax imposed by this part is not a surtax.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_g">
+                <num>(g)</num>
+                <paragraph eId="sec_17041__subsec_g__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>Section 1</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_g">
+                <num>(g)</num>
+                <content>
+                  <p>of the Internal Revenue Code, relating to certain unearned income of children taxed as if parent’s income, shall apply, except as otherwise provided.</p>
+                </content>
+                <paragraph eId="sec_17041__subsec_g__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>Section 1</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_g">
+                <num>(g)</num>
+                <content>
+                  <p>(7)(B)(ii)(II) of the Internal Revenue Code is modified, for purposes of this part, by substituting “1 percent” for “10 percent.”</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_h">
+                <num>(h)</num>
+                <content>
+                  <p>For each taxable year beginning on or after January 1, 1988, the Franchise Tax Board shall recompute the income tax brackets prescribed in subdivisions</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>and</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17041__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>. That computation shall be made as follows:</p>
+                </content>
+                <paragraph eId="sec_17041__subsec_c__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>The California Department of Industrial Relations shall transmit annually to the Franchise Tax Board the percentage change in the California Consumer Price Index for all items from June of the prior calendar year to June of the current calendar year, no later than August 1 of the current calendar year.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17041__subsec_i">
+                <num>(i)</num>
+                <paragraph eId="sec_17041__subsec_i__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>For purposes of computing “taxable income of a nonresident or part-year resident” under paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17041__subsec_i__subsec_3">
+                  <num>(3)</num>
+                  <content>
+                    <p>For purposes of computing “taxable income of a nonresident or part-year resident” under paragraph</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2010, Ch. 14, Sec. 5.   (SB 401)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

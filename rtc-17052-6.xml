@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.6"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.6"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17052.6"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.6/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.6/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.6/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.6/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17052-6">
+              <num>17052.6</num>
+              <heading>Section 17052.6</heading>
+              <subsection eId="sec_17052-6__subsec_a">
+                <num>(a)</num>
+                <paragraph eId="sec_17052-6__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>For each taxable year beginning on or after January 1, 2000, there shall be allowed as a credit against the “net tax,” as defined in Section 17039, an amount determined in accordance with Section 21 of the Internal Revenue Code, relating to expense for household and dependent care services necessary for gainful employment, as applicable for federal income tax purposes for the taxable year, except as otherwise provided in this section.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-6__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The amount of the credit shall be a percentage, as provided in subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>of the allowable federal credit without taking into account whether there is a federal tax liability.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>For the purposes of subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>, the percentage of the allowable federal credit shall be determined as follows:</p>
+                </content>
+                <paragraph eId="sec_17052-6__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>For taxable years beginning before January 1, 2003:
+If the adjusted gross income is:
+The percentage of
+credit is:
+$40,000 or less
+			........................
+63%
+Over $40,000 but not over $70,000
+			........................
+53%
+Over $70,000 but not over $100,000
+			........................
+42%
+Over $100,000
+			........................
+0%</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-6__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>For taxable years beginning on or after January 1, 2003:
+If the adjusted gross income is:
+The percentage of
+credit is:
+$40,000 or less
+			........................
+50%
+Over
+						$40,000 but not over $70,000
+			........................
+43%
+Over $70,000 but not over $100,000
+			........................
+34%
+Over $100,000
+			........................
+0%</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>For purposes of this section, “adjusted gross income” means adjusted gross income as computed for purposes of paragraph</p>
+                </content>
+                <paragraph eId="sec_17052-6__subsec_c__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_h">
+                <num>(h)</num>
+                <content>
+                  <p>of
+						Section 17024.5.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_d">
+                <num>(d)</num>
+                <content>
+                  <p>The credit authorized by this section shall be limited, as follows:</p>
+                </content>
+                <paragraph eId="sec_17052-6__subsec_d__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>Employment-related expenses, within the meaning of Section 21 of the Internal Revenue Code, shall be limited to expenses for household services and care provided in this state.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-6__subsec_d__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>Earned income, within the meaning of Section 21</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_d">
+                <num>(d)</num>
+                <content>
+                  <p>of the Internal Revenue Code, shall be limited to earned income subject to tax under this part. For purposes of this paragraph, compensation received by a member of the armed forces for active services as a member of the armed forces, other than pensions or retired pay, shall be considered earned income subject to tax under this part, whether or not the member is domiciled in this state.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>For purposes of this section, Section 21</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_b">
+                <num>(b)</num>
+                <paragraph eId="sec_17052-6__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of the Internal Revenue Code, relating to a qualifying individual, is modified to additionally provide that a child, as defined in Section 152</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_f">
+                <num>(f)</num>
+                <paragraph eId="sec_17052-6__subsec_f__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of the Internal Revenue Code, shall be treated, for purposes of Section 152 of the Internal Revenue Code, as applicable for purposes of this section, as receiving over one-half of their support during the calendar year from the parent having custody for a greater portion of the calendar year, that parent shall be treated as a “custodial parent,” within the meaning of Section 152</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>of the Internal Revenue Code, as applicable for purposes of this section, and the child shall be treated as a qualifying individual under Section 21</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_b">
+                <num>(b)</num>
+                <paragraph eId="sec_17052-6__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of the Internal Revenue Code, as applicable for purposes of this section, if both of the following apply:</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-6__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>The child receives over one-half of their support during the calendar year from their parents who never married each other and who lived apart at all times during the last six months of the calendar year.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-6__subsec_b__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The child is in the custody of one or both of their parents for more than one-half of the calendar year.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_f">
+                <num>(f)</num>
+                <content>
+                  <p>Section 21</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_g">
+                <num>(g)</num>
+                <content>
+                  <p>of the Internal Revenue Code, relating to special rules for 2021, as added by Section 9631</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-6__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>of the American Rescue Plan Act of 2021 (Public Law 117-2), shall not apply.
+(Amended by Stats. 2025, Ch. 231, Sec. 2.   (SB 711)   Effective October 1, 2025.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2025, Ch. 231, Sec. 2.   (SB 711)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

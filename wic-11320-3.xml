@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/11320.3"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11320.3"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="11320.3"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/11320.3/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11320.3/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/11320.3/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11320.3/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_3">
+          <num>3</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <article eId="art_3">
+              <num>3</num>
+              <section eId="sec_11320-3">
+                <num>11320.3</num>
+                <heading>Section 11320.3</heading>
+                <subsection eId="sec_11320-3__subsec_a">
+                  <num>(a)</num>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>Except as provided in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>or if otherwise exempt, every individual, as a condition of eligibility for aid under this chapter, shall participate in welfare-to-work activities under this article.
+(2) Individuals eligible under Section 11331.5 shall be required to participate in the Cal-Learn Program under Article 3.5 (commencing with Section 11331) in lieu of the welfare-to-work requirements, and subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>shall not apply to that individual.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>The following individuals shall not be required to participate for so long as the condition continues to exist:</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_b__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>An individual under 16 years of age.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_b__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>A nonparent caretaker relative who has primary responsibility for providing care for a child and
+						is either caring for a child who is a dependent or ward of the court or caring for a child in a case in which a county determines the child is at risk of placement in foster care, and the county determines that the caretaking responsibilities are beyond those considered normal day-to-day parenting responsibilities such that they impair the caretaker relative’s ability to be regularly employed or to participate in welfare-to-work activities.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_b__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>An individual whose presence in the home is required because of illness or incapacity of another member of the household and whose caretaking responsibilities impair the recipient’s ability to be regularly employed or to participate in welfare-to-work activities.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>The parent or other relative has primary responsibility for personally providing care to a child six months of age or under, except that, on a case-by-case basis, and based on criteria developed by the county, this period may be reduced to the first 12 weeks after the birth or adoption of the child, or increased to the first 12 months after the birth or adoption of the child. An individual may be exempt only once under this clause.
+(ii) An individual that received an exemption pursuant to clause</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>shall be exempt for a period of 12 weeks, upon the birth or adoption of any subsequent children, except that this period may be extended on a case-by-case basis to six months, based on criteria developed by the county.
+(iii) In making the determination to extend the period of exception under clause</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>or (ii), the following may be considered:
+(I) The availability of childcare.
+(II) Local labor market conditions.
+(III) Other factors determined by the county.
+(iv) Effective January 1, 2013, the parent or other relative has primary responsibility for personally providing care to one child from birth to 23 months, inclusive. The exemption provided for under this clause shall be available in addition to any other exemption provided for under this subparagraph. An individual may be exempt only once under this clause.
+(B) In a family eligible for aid under this chapter due to the unemployment of the principal wage earner, the exemption criteria contained in subparagraph (A) shall be applied to only one parent.</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_i__subsec_7">
+                    <num>(7)</num>
+                    <content>
+                      <p>A recipient who is pregnant. A pregnant recipient may
+						volunteer to participate in welfare-to-work activities.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>An individual not required to participate may choose to participate voluntarily under this article, and end that participation at any time without loss of eligibility for aid under this chapter, if the individual’s status has not changed in a way that would require participation.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_d">
+                  <num>(d)</num>
+                  <paragraph eId="sec_11320-3__subsec_d__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>Notwithstanding subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>, a custodial parent who is under 20 years of age and who has not earned a high school diploma or its equivalent, and who is not exempt, or deferred, as described in Section 11332, or whose only basis
+						for exemption is paragraph</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_6">
+                    <num>(6)</num>
+                    <content>
+                      <p>, or</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_a__subsec_7">
+                    <num>(7)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>, shall be required to participate solely for the purpose of earning a high school diploma or its equivalent. During the time that Article 3.5 (commencing with Section 11331) is operative, this subdivision shall only apply to a custodial parent who is 19 years of age. Participating, exempt, or deferred custodial parents shall remain eligible to receive case management and supportive services, if available, and are not subject to sanctions.</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_b__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>Section 11325.25 shall apply to a custodial parent who is 18 or 19 years
+						of age and who is required to participate under this article.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>Notwithstanding paragraph</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_e__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>, the county may determine that participation in education activities for the purpose of earning a high school diploma or equivalent is inappropriate for a custodial parent who is 18 or 19 years of age only if that parent is reassigned pursuant to an evaluation under Section 11325.25, or, at appraisal is already in an educational or vocational training program that is approvable as a self-initiated program as specified in Section 11325.23. If that determination is
+						made, the parent shall be allowed to continue participation in the self-initiated program subject to Section 11325.23. During the time that Article 3.5 (commencing with Section 11331) is operative, this subdivision shall only apply to a custodial parent who is 19 years of age.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>A recipient shall be excused from participation for good cause when the county has determined there is a condition or other circumstance that temporarily prevents or significantly impairs the recipient’s ability to be regularly employed or to participate in welfare-to-work activities. The county human services agency shall review the good cause determination for its continuing appropriateness in accordance with the projected length of the condition, or circumstance, but not less than every three months. The recipient shall cooperate with the county
+						human services agency and provide information, including written documentation, as required to complete the review. Conditions that may be considered good cause include, but are not limited to, the following:</p>
+                  </content>
+                  <paragraph eId="sec_11320-3__subsec_f__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>Lack of necessary supportive services.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11320-3__subsec_f__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11320-3__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11323.2, but who is not included in the assistance unit. For purposes of this paragraph, “reasonable availability” means childcare that is commonly available in the recipient’s community to a person who is not receiving aid and that is in conformity with the requirements of Public Law 104-193. The choices of childcare shall meet either licensing requirements or the requirements of Section 11324. This good cause criterion shall include the unavailability of suitable special needs childcare for children with identified special needs, including, but not limited to, disabilities or chronic illnesses.
+(4) Denial of reasonable accommodations for pregnant or parenting students in
+						violation of Title IX of the federal Education Amendments of 1972 (20 U.S.C. Sec. 1681 et seq.).
+(Amended by Stats. 2023, Ch. 615, Sec. 2.   (SB 521)   Effective January 1, 2024.)</p>
+                  </content>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 2023, Ch. 615, Sec. 2.   (SB 521)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

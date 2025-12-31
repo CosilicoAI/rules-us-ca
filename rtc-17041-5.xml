@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041.5"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041.5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17041.5"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041.5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041.5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17041.5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17041.5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17041-5">
+              <num>17041.5</num>
+              <heading>Section 17041.5</heading>
+              <content>
+                <p>Revenue and Taxation Code - RTC
+DIVISION 2. OTHER TAXES [6001 - 61050]
+( Heading of Division 2 amended by Stats. 1968, Ch. 279. )
+PART 10. PERSONAL INCOME TAX [17001 - 18181]
+( Part 10 added by Stats. 1943, Ch. 659. )
+CHAPTER 2. Imposition of Tax [17041 - 17061]
+( Chapter 2 repealed and added by Stats. 1955, Ch. 939. )
+17041.5.
+Notwithstanding any statute, ordinance, regulation, rule or decision to the contrary, no city, county, city and county, governmental subdivision, district, public and quasi-public corporation, municipal corporation, whether incorporated or not or whether chartered or not, shall levy or collect or cause to be levied or collected any tax upon the income, or any part thereof, of any person, resident or nonresident.
+This section shall not be construed so as to prohibit the levy or collection of any otherwise authorized license tax upon a business measured by or according to gross
+					 receipts.
+(Amended by Stats. 1965, Ch. 1319.)</p>
+              </content>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 1965, Ch. 1319.)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

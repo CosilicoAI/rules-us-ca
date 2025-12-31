@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/10210"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10210"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="10210"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/10210/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10210/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/10210/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10210/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_1">
+          <num>1</num>
+          <chapter eId="chp_1">
+            <num>1</num>
+            <section eId="sec_10210">
+              <num>10210</num>
+              <heading>Section 10210</heading>
+              <content>
+                <p>Welfare and Institutions Code - WIC
+DIVISION 9. PUBLIC SOCIAL SERVICES [10000 - 18999.98]
+( Division 9 added by Stats. 1965, Ch. 1784. )
+PART 1.8. Child Care and Development Services Act [10207 - 10492.2]
+( Part 1.8 added by Stats. 2021, Ch. 116, Sec. 260. )
+CHAPTER 1. General Provisions [10207 - 10215]
+( Chapter 1 added by Stats. 2021, Ch. 116, Sec. 260. )
+10210.
+In recognition of the demonstrated relationship between food and good nutrition and the capacity of children to develop and learn, it is the policy of this state that no child shall be hungry while in attendance in child care and development facilities as defined in Section 10213.5 and that child development facilities have an obligation to provide for the nutritional needs of children in attendance.
+(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)   Effective July 23, 2021.)</p>
+              </content>
+              <authorialNote marker="history">
+                <p>(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

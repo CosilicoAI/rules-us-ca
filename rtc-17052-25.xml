@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.25"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.25"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17052.25"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.25/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.25/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052.25/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052.25/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17052-25">
+              <num>17052.25</num>
+              <heading>Section 17052.25</heading>
+              <subsection eId="sec_17052-25__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>For each taxable year beginning on or after January 1, 1994, there shall be allowed as a credit against the “net tax,” as defined in Section 17039, an amount equal to 50 percent of the costs paid or incurred by a taxpayer for the adoption of any minor child who is a citizen or legal resident of the United States and was in the custody of a public agency of either this state or a political subdivision of this state. The credit shall not exceed two thousand five hundred dollars ($2,500) per minor child.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-25__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>“Costs” eligible for the credit pursuant to subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-25__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>shall include the following:</p>
+                </content>
+                <paragraph eId="sec_17052-25__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>Fees for required services of either the Department of Social Services or a licensed adoption agency.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-25__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>Travel and related expenses for the adoptive family that are directly related to the adoption process.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052-25__subsec_a__subsec_3">
+                  <num>(3)</num>
+                  <content>
+                    <p>Medical fees and expenses that are not reimbursed by insurance and are directly related to the adoption process.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052-25__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>The credit authorized by this section shall be claimed for the taxable year in which the decree or order of adoption is entered pursuant to Section 8612 of the Family Code. However, the allowable credit claimed may include any costs of that adoption paid or incurred in any
+					 prior taxable year.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-25__subsec_d">
+                <num>(d)</num>
+                <content>
+                  <p>In the case where the credit allowed by this section exceeds the “net tax,” the excess may be carried over to reduce the “net tax” in the following year, and succeeding years if necessary, until the total credit of two thousand five hundred dollars ($2,500) per minor child is exhausted.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17052-25__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>Any deduction otherwise allowed under this part for any amount paid or incurred by the taxpayer upon which the credit is based shall be reduced by the amount of the credit allowed under this section.
+(Amended by Stats. 1998, Ch. 322, Sec. 9.   Effective August 20, 1998.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 1998, Ch. 322, Sec. 9.   Effective August 20, 1998.)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

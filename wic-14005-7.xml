@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/14005.7"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14005.7"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="14005.7"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/14005.7/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14005.7/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/14005.7/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14005.7/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_3">
+          <num>3</num>
+          <chapter eId="chp_7">
+            <num>7</num>
+            <article eId="art_1">
+              <num>1</num>
+              <section eId="sec_14005-7">
+                <num>14005.7</num>
+                <heading>(a) Medically needy persons and medically needy family persons are entitled to health care services under Section 14005 providing all eligibility criteria established pursuant to this chapter are met</heading>
+                <subsection eId="sec_14005-7__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>Medically needy persons and medically needy family persons are entitled to health care services under Section 14005 providing all eligibility criteria established pursuant to this chapter are met.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>Except as otherwise provided in this chapter or in Title XIX of the federal Social Security Act, no medically needy family person, medically needy person or state-only Medi-Cal persons shall be entitled to receive health care services pursuant to Section 14005 during any month in which their spend down of excess income
+						has not been met.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>In the case of a medically needy person, monthly income, as determined, defined, counted, and valued, in accordance with Title XIX of the federal Social Security Act, in excess of the amount required for maintenance established pursuant to Section 14005.12, exclusive of any amounts considered exempt as income under Chapter 3 (commencing with Section 12000), less amounts paid for Medicare and other health insurance premiums shall be the spend down of excess income to be met under Section 14005.9.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>In the case of a medically needy family person or state-only Medi-Cal person, monthly income, as determined, defined, counted, and valued, in
+						accordance with Title XIX of the federal Social Security Act, in excess of the amount required for maintenance established pursuant to Section 14005.12, exclusive of any amounts considered exempt as income under Chapter 2 (commencing with Section 11200), less amounts paid for Medicare and other health insurance premiums shall be the spend down of excess income to be met under Section 14005.9.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>In determining the income of a medically needy person residing in a licensed community care facility, income shall be determined, defined, counted, and valued, in accordance with Title XIX of the federal Social Security Act, any amount paid to the facility for residential care and support that exceeds the amount needed for maintenance shall be deemed
+						unavailable for the purposes of this chapter.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>(1) For purposes of this section the following definitions apply:
+(A) “SSI” means the federal Supplemental Security Income program established under Title XVI of the federal Social Security Act.
+(B) “MNL” means the income standard of the Medi-Cal medically needy program defined in Section 14005.12.
+(C) Board and care “personal care services” or “PCS” deduction means the income disregard that is applied to a resident in a licensed community care facility, in lieu of the board and care deduction specified in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>of Section 14005.7, when the PCS deduction is greater than the board and care deduction.
+(2) (A) For purposes of this section, the SSI recipient retention amount is the amount by which the SSI maximum payment amount to an individual residing in a licensed community care facility exceeds the maximum amount that the state allows community care facilities to charge a resident who is an SSI recipient.
+(B) For purposes of this section, the personal and incidental needs deduction for an individual residing in a licensed community care facility is either of the following:</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>If the deduction specified in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>is applicable to the individual, the amount, not to exceed the amount by which the SSI recipient retention amount exceeds twenty dollars ($20), nor to be less than zero, by which the sum of the amount that the individual pays to
+						their licensed community care facility and the SSI recipient retention amount exceed the sum of the individual’s MNL, the individual’s board and care deduction, and twenty dollars ($20).
+(ii) If the deduction specified in paragraph</p>
+                  </content>
+                  <paragraph eId="sec_14005-7__subsec_e__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_g">
+                  <num>(g)</num>
+                  <content>
+                    <p>No later than one month after the effective date of subparagraph (B) of paragraph</p>
+                  </content>
+                  <paragraph eId="sec_14005-7__subsec_g__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>, the department shall submit to the federal medicaid administrator a state plan amendment seeking approval of the income deduction specified in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>, and of federal financial participation for the costs resulting
+						from that income deduction.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_h">
+                  <num>(h)</num>
+                  <content>
+                    <p>The deduction prescribed by paragraph</p>
+                  </content>
+                  <paragraph eId="sec_14005-7__subsec_h__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>shall be applied no later than the first day of the fourth month after the month in which the department receives approval for the federal financial participation specified in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_g">
+                  <num>(g)</num>
+                  <content>
+                    <p>. Until approval for federal financial participation is received by the department, there shall be no deduction under paragraph</p>
+                  </content>
+                  <paragraph eId="sec_14005-7__subsec_g__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_14005-7__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>.
+(Amended by Stats. 2023, Ch. 42, Sec. 67.   (AB 118)   Effective July 10, 2023.)</p>
+                  </content>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 2023, Ch. 42, Sec. 67.   (AB 118)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="UIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/uic/3301"/>
+          <FRBRuri value="/akn/us-ca/act/uic/3301"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="3301"/>
+          <FRBRname value="UIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/uic/3301/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/uic/3301/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/uic/3301/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/uic/3301/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <section eId="sec_3301">
+        <num>3301</num>
+        <heading>Section 3301</heading>
+        <subsection eId="sec_3301__subsec_s">
+          <num>(s)</num>
+          <content>
+            <p>:
+Code Search
+Text Search
+Add To My Favorites
+Found multiple results when searching Unemployment Insurance Code - UIC with '3301' - Please Select from the List below:
+(Amended by Stats. 2025, Ch. 772, Sec. 1.)
+(Repealed (in Sec. 1) and added by Stats. 2025, Ch. 772, Sec. 2.)</p>
+          </content>
+        </subsection>
+        <authorialNote marker="history">
+          <p>(Amended by Stats. 2025, Ch. 772, Sec. 1.)</p>
+        </authorialNote>
+      </section>
+    </body>
+  </act>
+</akomaNtoso>

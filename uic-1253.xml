@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="UIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/uic/1253"/>
+          <FRBRuri value="/akn/us-ca/act/uic/1253"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="1253"/>
+          <FRBRname value="UIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/uic/1253/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/uic/1253/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/uic/1253/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/uic/1253/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_1">
+        <num>1</num>
+        <part eId="part_1">
+          <num>1</num>
+          <chapter eId="chp_5">
+            <num>5</num>
+            <article eId="art_1">
+              <num>1</num>
+              <section eId="sec_1253">
+                <num>1253</num>
+                <heading>An unemployed individual is eligible to receive unemployment compensation benefits with respect to any week only if the director finds that:</heading>
+                <subsection eId="sec_1253__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>A claim for benefits with respect to that week has been made in accordance with authorized regulations.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_1253__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>He or she has registered for work, and thereafter continued to report, at a public employment office or any other place as the director may approve.  Either or both of the requirements of this subdivision may be waived or altered by authorized regulation as to partially employed individuals attached to regular jobs.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_1253__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>He or she was able to work and available for work for that week.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_1253__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>He has been unemployed for a waiting period of one week as defined in Section 1254, unless this waiting period has been waived pursuant to Section 8571 of the Government Code.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_1253__subsec_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>He or she conducted a search for suitable work in accordance with specific and reasonable instructions of a public employment office.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_1253__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>He or she participated as required by the director in reemployment activities, such as orientation and assessment if the individual has been identified pursuant to an automated profiling system as likely to exhaust regular unemployment benefits unless the individual has shown good cause for failure to participate.
+(Amended by Stats. 1994, Ch. 1116, Sec. 1.   Effective January 1, 1995.)</p>
+                  </content>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 1994, Ch. 1116, Sec. 1.   Effective January 1, 1995.)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

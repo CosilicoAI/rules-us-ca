@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/18900"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18900"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="18900"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/18900/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18900/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/18900/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18900/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_6">
+          <num>6</num>
+          <chapter eId="chp_10">
+            <num>10</num>
+            <section eId="sec_18900">
+              <num>18900</num>
+              <heading>Section 18900</heading>
+              <content>
+                <p>Welfare and Institutions Code - WIC
+DIVISION 9. PUBLIC SOCIAL SERVICES [10000 - 18999.98]
+( Division 9 added by Stats. 1965, Ch. 1784. )
+PART 6. MISCELLANEOUS PROVISIONS [18000 - 18999.98]
+( Part 6 added by Stats. 1965, Ch. 1784. )
+CHAPTER 10. CalFresh [18900 - 18929]
+( Heading of Chapter 10 amended by Stats. 2011, Ch. 227, Sec. 67.5. )
+18900.
+Finding that hunger, undernutrition, and malnutrition are present and continuing problems faced by low-income California households, and further finding that the federal Supplemental Nutrition Assistance Program (Chapter 51 (commencing with Section 2011), Title 7, United States Code) offers significant health-vital benefits, the purpose of this chapter is to establish a statewide program to enable recipients of aid under Part 3 (commencing with Section 11000) or Part 5 (commencing with Section 17000) of this division and other low-income households to receive benefits under the federal Supplemental Nutrition Assistance Program.
+(Amended by Stats. 2011, Ch. 227, Sec. 68.   (AB 1400)   Effective January 1, 2012.)</p>
+              </content>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2011, Ch. 227, Sec. 68.   (AB 1400)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

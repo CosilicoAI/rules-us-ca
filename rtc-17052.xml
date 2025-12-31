@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17052"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17052/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17052/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17052">
+              <num>17052</num>
+              <heading>(a) (1) For each taxable year beginning on or after January 1, 2015, there shall be allowed against the &quot;net tax,&quot; as defined by Section 17039, an earned income tax credit</heading>
+              <subsection eId="sec_17052__subsec_a">
+                <num>(a)</num>
+                <paragraph eId="sec_17052__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>For each taxable year beginning on or after January 1, 2015, there shall be allowed against the &quot;net tax,&quot; as defined by Section 17039, an earned income tax credit.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17052__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The credit shall be calculated as follows.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052__subsec_b">
+                <num>(b)</num>
+                <paragraph eId="sec_17052__subsec_b__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>In lieu of the table prescribed in Section 32</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17052__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>(1), the credit percentage shall be 7.65%.
+(Amended by Stats. 2022, Ch. 482, Sec. 5. Effective January 1, 2023.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2022, Ch. 482, Sec. 5. Effective January 1, 2023.)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>
