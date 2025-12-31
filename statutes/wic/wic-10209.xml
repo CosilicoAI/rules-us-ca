@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/10209"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10209"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="10209"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/10209/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10209/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/10209/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10209/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_1">
+          <num>1</num>
+          <chapter eId="chp_1">
+            <num>1</num>
+            <section eId="sec_10209">
+              <num>10209</num>
+              <heading>(a) On or before June 30, 1999, the State Department of Education, in consultation with the department, shall develop prekindergarten learning development guidelines</heading>
+              <subsection eId="sec_10209__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>On or before June 30, 1999, the State Department of Education, in consultation with the department, shall develop prekindergarten learning development guidelines. The development of these guidelines shall be funded from funds appropriated for this purpose in the Budget Act of 1998. The guidelines shall focus on preparing four- and five-year-old children for kindergarten. The guidelines shall identify appropriate developmental milestones for each age, how to assess where children are in relation to the milestones, and suggested methods for achieving the milestones. In addition, the guidelines shall identify any basic beginning skills needed to prepare children for kindergarten or first grade, and methods for teaching these basic skills. The guidelines shall be articulated with the academic content
+							 and performance standards adopted by the State Board of Education for kindergarten and grades 1 to 12, inclusive. The State Department of Education may contract with an appropriate public or private agency to develop the guidelines.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10209__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>In future expenditure plans for quality improvement activities, the department shall include funding for periodically updating the guidelines consistent with academic and performance standards and relevant research, broadly distributing the guidelines, and providing education, outreach, and training services to implement the guidelines.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10209__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>Programs funded by the department under Chapter 6 (commencing with Section 10235) and Chapter 7 (commencing with Section 10240), shall use the prekindergarten learning development guidelines developed pursuant to this section.
+(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)   Effective July 23, 2021.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

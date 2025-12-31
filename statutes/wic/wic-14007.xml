@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/14007"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14007"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="14007"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/14007/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14007/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/14007/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/14007/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_3">
+          <num>3</num>
+          <chapter eId="chp_7">
+            <num>7</num>
+            <article eId="art_1">
+              <num>1</num>
+              <section eId="sec_14007">
+                <num>14007</num>
+                <heading>No period of residence in this state shall be required as a condition of eligibility under this chapter, but an individual who does not reside in this state shall not be eligible</heading>
+                <content>
+                  <p>Welfare and Institutions Code - WIC
+DIVISION 9. PUBLIC SOCIAL SERVICES [10000 - 18999.98]
+( Division 9 added by Stats. 1965, Ch. 1784. )
+PART 3. AID AND MEDICAL ASSISTANCE [11000 - 15771]
+( Part 3 added by Stats. 1965, Ch. 1784. )
+CHAPTER 7. Basic Health Care [14000 - 14199.87]
+( Chapter 7 added by Stats. 1965, 2nd Ex. Sess., Ch. 4. )
+ARTICLE 1. General Provisions [14000 - 14042.2]
+( Article 1 added by Stats. 1965, 2nd Ex. Sess., Ch. 4. )
+14007.
+No period of residence in this state shall be required as a condition of eligibility under this chapter, but an individual who does not reside in this state shall not be eligible.
+(Amended by Stats. 1969, Ch. 21.)</p>
+                </content>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 1969, Ch. 21.)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

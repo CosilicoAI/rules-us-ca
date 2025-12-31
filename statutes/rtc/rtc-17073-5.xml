@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17073.5"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17073.5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17073.5"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17073.5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17073.5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17073.5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17073.5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_3">
+            <num>3</num>
+            <article eId="art_1">
+              <num>1</num>
+              <section eId="sec_17073-5">
+                <num>17073.5</num>
+                <heading>(a) A taxpayer may elect to take a standard deduction as follows:</heading>
+                <subsection eId="sec_17073-5__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>A taxpayer may elect to take a standard deduction as follows:
+(1) In the case of a taxpayer, other than a head of a household or a surviving spouse (as defined in Section 17046) or a married couple filing a joint return, the standard deduction shall be one thousand eight hundred eighty dollars ($1,880).
+(2) In the case of a head of household or a surviving spouse (as defined in Section 17046) or a
+						married couple filing a joint return, the standard deduction shall be three thousand seven hundred sixty dollars ($3,760).</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>The standard deduction provided for in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>shall be in lieu of all deductions other than those which are to be subtracted from gross income in computing adjusted gross income under Section 17072.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_17073-5__subsec_c__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>The provisions of this section shall be applied in lieu of the provisions of Sections 63</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>and 63</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>of the Internal Revenue Code, relating to standard deductions.</p>
+                  </content>
+                  <paragraph eId="sec_17073-5__subsec_f__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>Notwithstanding paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_f__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>, Section 63</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_17073-5__subsec_c__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>of the Internal Revenue Code, relating to limitations on the standard deduction of certain dependents, and Section 63</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_17073-5__subsec_c__subsec_6">
+                    <num>(6)</num>
+                    <content>
+                      <p>of the Internal Revenue Code, relating to certain individuals not eligible for the standard deduction, shall apply, except
+						as otherwise provided. For purposes of this paragraph, the amount specified in Section 63</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_17073-5__subsec_c__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>of the Internal Revenue Code shall be adjusted for inflation in accordance with the provisions of Section 63</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_17073-5__subsec_c__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>of the Internal Revenue Code.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>For each taxable year beginning on or after January 1, 1988, the Franchise Tax Board shall recompute the standard deduction amounts prescribed in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>. That computation shall be made as follows:</p>
+                  </content>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>The California Department of Industrial Relations shall transmit annually to the Franchise Tax Board the percentage change in the California Consumer Price Index for all items from June of the prior calendar year to June of the current calendar year, no later than August 1 of the current calendar year.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>The Franchise Tax Board shall compute an inflation adjustment
+						factor by adding 100 percent to that portion of the percentage change figure which is furnished pursuant to paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>and dividing the result by 100.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>The Franchise Tax Board shall multiply the standard deduction amounts in the preceding taxable year by the inflation adjustment factor determined in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>In computing the standard deduction amounts pursuant to this subdivision, the amount provided in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>shall be twice the amount provided in paragraph</p>
+                  </content>
+                  <paragraph eId="sec_17073-5__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_17073-5__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>.
+(Amended by Stats. 1998, Ch. 322, Sec. 16.   Effective August 20, 1998.)</p>
+                  </content>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 1998, Ch. 322, Sec. 16.   Effective August 20, 1998.)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

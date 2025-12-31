@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/11453"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11453"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="11453"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/11453/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11453/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/11453/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/11453/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_3">
+          <num>3</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <article eId="art_6">
+              <num>6</num>
+              <section eId="sec_11453">
+                <num>11453</num>
+                <heading>Section 11453</heading>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>Except as provided in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>, the amounts set forth in Section 11452 and subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be adjusted annually by the department to reflect any increases or decreases in the cost of living. These adjustments shall become effective July 1 of each year, unless otherwise specified by the
+				Legislature. For the 2000–01 fiscal year to the 2003–04 fiscal year, inclusive, these adjustments shall become effective October 1 of each year. The cost-of-living adjustment shall be calculated by the Department of Finance based on the changes in the California Necessities Index, which as used in this section means the weighted average changes for food, clothing, fuel, utilities, rent, and transportation for low-income consumers. The computation of annual adjustments in the California Necessities Index shall be made in accordance with the following steps:</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>Based on the appropriate components of the Consumer Price Index for All Urban Consumers, as published by the United States Department of Labor, Bureau of Labor Statistics, the percentage change shall be determined
+				for the 12-month period ending with the December preceding the year for which the cost-of-living adjustment will take effect, for each expenditure category specified in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>within the following geographical areas: Los Angeles-Long Beach-Anaheim, San Francisco-Oakland, San Diego, and, to the extent statistically valid information is available from the Bureau of Labor Statistics, additional geographical areas within the state which include not less than 80 percent of recipients of aid under this chapter.</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>Calculate a weighted percentage change for each of the expenditure categories specified in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>using the applicable weighting factors for each area used by the State Department of Industrial Relations to calculate the California Consumer Price Index (CCPI).</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>Calculate a category adjustment factor for each expenditure category in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>by</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>adding 100 to the applicable weighted percentage change as determined in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>dividing the sum by 100.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>Determine the expenditure amounts for the current year by multiplying each expenditure amount determined for the prior year by the applicable category adjustment factor determined in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_6">
+                    <num>(6)</num>
+                    <content>
+                      <p>Determine the overall adjustment factor by dividing</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>the sum of the expenditure amounts as determined in paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>for the current year by</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>the sum of the expenditure amounts as determined in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>for the prior year.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>The overall adjustment factor determined by the preceding computation steps shall be multiplied by the schedules established pursuant to Section 11452 and subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 as are in effect during the month of June preceding the fiscal year in
+				which the adjustments are to occur and the product rounded to the nearest dollar. The resultant amounts shall constitute the new schedules which shall be filed with the Secretary of State.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_c">
+                  <num>(c)</num>
+                  <paragraph eId="sec_11453__subsec_c__subsec_1">
+                    <num>(1)</num>
+                    <content>
+                      <p>No adjustment to the maximum aid payment set forth in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be made under this section for the purpose of increasing the benefits under this chapter for the 1990–91, 1991–92, 1992–93, 1993–94, 1994–95, 1995–96, 1996–97, and 1997–98 fiscal years, and through October 31, 1998, to reflect any change in the cost of living. For the 1998–99 fiscal year, the cost-of-living adjustment that would have been provided on July 1, 1998, pursuant to subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>shall be made on November 1, 1998. No adjustment to the maximum aid payment set forth in subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be made under this section for the purpose of increasing the benefits under this chapter for the 2005–06 and 2006–07 fiscal
+				years to reflect any change in the cost of living. Elimination of the cost-of-living adjustment pursuant to this paragraph shall satisfy the requirements of Section 11453.05, and no further reduction shall be made pursuant to that section.</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_2">
+                    <num>(2)</num>
+                    <content>
+                      <p>No adjustment to the minimum basic standard of adequate care set forth in Section 11452 shall be made under this section for the purpose of increasing the benefits under this chapter for the 1990–91 and 1991–92 fiscal years to reflect any change in the cost of living.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>In any fiscal year commencing with the 2000–01 fiscal year to the 2003–04 fiscal year, inclusive, when there is any increase in tax relief pursuant to the applicable paragraph of subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 10754 of the Revenue and Taxation Code, then the increase pursuant to subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of this section shall occur. In any fiscal year commencing with the 2000–01 fiscal
+				year to the 2003–04 fiscal year, inclusive, when there is no increase in tax relief pursuant to the applicable paragraph of subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 10754 of the Revenue and Taxation Code, then any increase pursuant to subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of this section shall be suspended.</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_4">
+                    <num>(4)</num>
+                    <content>
+                      <p>Notwithstanding paragraph</p>
+                    </content>
+                  </paragraph>
+                  <paragraph eId="sec_11453__subsec_a__subsec_3">
+                    <num>(3)</num>
+                    <content>
+                      <p>, an adjustment to the maximum aid payments set forth in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be made under this section for the 2002–03 fiscal year, but the adjustment shall become effective June 1, 2003.</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_5">
+                    <num>(5)</num>
+                    <content>
+                      <p>No adjustment to the maximum aid payment set forth in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be made under this section for the purpose of increasing benefits under this chapter for the 2007–08, 2008–09, and 2009–10 fiscal years.</p>
+                  </content>
+                  <paragraph eId="sec_11453__subsec_a__subsec_6">
+                    <num>(6)</num>
+                    <content>
+                      <p>For the 2010–11 fiscal year and each fiscal year thereafter, no adjustment
+				to the maximum aid payment set forth in subdivision</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection eId="sec_11453__subsec_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>of Section 11450 shall be made under this section unless otherwise specified by statute.</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>Adjustments for subsequent fiscal years pursuant to this section shall not include any adjustments for any fiscal year in which the cost of living was suspended pursuant to subdivision</p>
+                  </content>
+                </subsection>
+                <subsection eId="sec_11453__subsec_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>.
+(Amended by Stats. 2011, Ch. 227, Sec. 55.5.   (AB 1400)   Effective January 1, 2012.)</p>
+                  </content>
+                </subsection>
+                <authorialNote marker="history">
+                  <p>(Amended by Stats. 2011, Ch. 227, Sec. 55.5.   (AB 1400)</p>
+                </authorialNote>
+              </section>
+            </article>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

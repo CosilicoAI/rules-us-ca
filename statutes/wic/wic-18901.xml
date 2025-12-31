@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/18901"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18901"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="18901"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/18901/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18901/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/18901/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/18901/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_6">
+          <num>6</num>
+          <chapter eId="chp_10">
+            <num>10</num>
+            <section eId="sec_18901">
+              <num>18901</num>
+              <heading>(a) The eligibility of households shall be determined to the extent permitted by federal law</heading>
+              <subsection eId="sec_18901__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>The eligibility of households shall be determined to the extent permitted by federal law.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_18901__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>In determining eligibility for CalFresh, minimum age requirements other than those that exist under federal law shall not be imposed.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_18901__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>The department shall establish verification policies and procedures for CalFresh applicants and beneficiaries in the event that necessary verification is not provided by the applicant or beneficiary to accompany the application, semiannual report, annual recertification, or any other form or submission that requests verification be provided at the time of submission. These policies and procedures, to the extent permitted by federal law, regulation, guidance, or a waiver thereof, shall require counties to first seek verification from available electronic sources or self-attestation before requesting documentary evidence from the applicant or beneficiary to complete
+				  required verification or pursuing secondary evidence to verify the necessary information. Notwithstanding the rulemaking provisions of the Administrative Procedure Act (Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code), the department shall issue an all-county letter or similar instructions no later than January 1, 2021.
+(Amended by Stats. 2020, Ch. 11, Sec. 84.   (AB 79)   Effective June 29, 2020.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2020, Ch. 11, Sec. 84.   (AB 79)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

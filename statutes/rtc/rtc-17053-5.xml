@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="RTC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/rtc/17053.5"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17053.5"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="17053.5"/>
+          <FRBRname value="RTC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/rtc/17053.5/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17053.5/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/rtc/17053.5/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/rtc/17053.5/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_2">
+        <num>2</num>
+        <part eId="part_10">
+          <num>10</num>
+          <chapter eId="chp_2">
+            <num>2</num>
+            <section eId="sec_17053-5">
+              <num>17053.5</num>
+              <heading>(a) (1) For a qualified renter, there shall be allowed a credit against the renter’s “net tax,” as defined in Section 17039</heading>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>(1) For a qualified renter, there shall be allowed a credit against the renter’s “net tax,” as defined in Section 17039. The amount of the credit shall be as follows:
+(A) For spouses filing joint returns, heads of household, and surviving spouses, as defined in Section 17046, if adjusted gross income is fifty thousand dollars ($50,000) or less, the credit shall be equal to:</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>For taxable years beginning before January 1, 2026, one hundred twenty dollars ($120).
+(ii) Except as otherwise provided in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_k">
+                <num>(k)</num>
+                <content>
+                  <p>, for taxable years beginning on or after January 1, 2026:
+(I) Two hundred fifty dollars ($250) if the qualified renter has no dependents, as defined in Section 17056.
+(II) Five hundred dollars ($500) if the qualified renter has one or more dependents, as defined in Section 17056.
+(B) For other individuals, if adjusted gross income is twenty-five thousand dollars ($25,000) or less, the credit shall be equal to:</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>For taxable years beginning before January 1, 2026, sixty dollars ($60).
+(ii) Except as otherwise provided in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_k">
+                <num>(k)</num>
+                <content>
+                  <p>, for taxable years beginning on or after January 1, 2026:
+(I) Two hundred fifty dollars ($250) if the qualified renter has no dependents, as defined
+				  in Section 17056.
+(II) Five hundred dollars ($500) if the qualified renter has one or more dependents, as defined in Section 17056.</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_k__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>Except as provided in subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>, spouses shall receive only one credit under this section. If the spouses file separate returns, the credit may be taken by either or equally divided between them, except as follows:
+(A) If one spouse was a resident for the entire taxable year and the other spouse was a nonresident for part or all of the taxable year, the resident spouse shall be allowed one-half the credit allowed to married persons and the nonresident spouse shall be permitted one-half the credit allowed to married persons, prorated as provided in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>.
+(B) If both spouses were nonresidents for part of
+				  the taxable year, the credit allowed to married persons shall be divided equally between them subject to the proration provided in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>For spouses, if each spouse maintained a separate place of residence and resided in this state during the entire taxable year, each spouse will be allowed one-half the full credit allowed to married persons provided in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>For purposes of this section, a “qualified renter” means an individual who satisfies both of the following:</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_c__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>Was a resident of this state, as defined in Section 17014.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_c__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>Rented and occupied premises in this state that constituted the individual’s principal place of residence during at least 50 percent of the taxable year.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_d">
+                <num>(d)</num>
+                <content>
+                  <p>“Qualified renter” does not include any of the following:</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_d__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>An individual who for more than 50 percent of the taxable year rented and occupied premises that were exempt from property taxes, except that an individual, otherwise qualified, is deemed a qualified renter if the individual or the individual’s landlord pays possessory interest taxes, or the owner of those premises makes payments in lieu of property taxes that are substantially equivalent to property taxes paid on properties of comparable market value.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_d__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>An individual whose principal place of residence for more than 50 percent of the taxable year is with another person who claimed that individual as a dependent for income tax purposes.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_d__subsec_3">
+                  <num>(3)</num>
+                  <content>
+                    <p>An individual who has been granted or whose spouse
+				  has been granted the homeowners’ property tax exemption during the taxable year. This paragraph does not apply to an individual whose spouse has been granted the homeowners’ property tax exemption if each spouse maintained a separate residence for the entire taxable year.</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>An otherwise qualified renter who is a nonresident for any portion of the taxable year shall claim the credits set forth in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>at the rate of one-twelfth of those credits for each full month that individual resided within this state during the taxable year.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_f">
+                <num>(f)</num>
+                <content>
+                  <p>A person claiming the credit provided in this section shall, as part of that claim, and under penalty of perjury, furnish that information as the Franchise Tax Board prescribes on a form supplied by the board.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_g">
+                <num>(g)</num>
+                <content>
+                  <p>The credit provided in this section shall be claimed on
+				  returns in the form as the Franchise Tax Board may from time to time prescribe.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_h">
+                <num>(h)</num>
+                <content>
+                  <p>For purposes of this section, “premises” means a house or a dwelling unit used to provide living accommodations in a building or structure and the land incidental thereto, but does not include land only, unless the dwelling unit is a mobilehome. The credit is not allowed for any taxable year for the rental of land upon which a mobilehome is located if the mobilehome has been granted a homeowners’ exemption under Section 218 in that year.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>This section shall become operative on January 1, 1998, and applies to any taxable year beginning on or after January 1, 1998.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_j">
+                <num>(j)</num>
+                <content>
+                  <p>For each taxable year beginning on or after January 1, 1999, the Franchise Tax Board shall recompute the adjusted gross income amounts set forth in subdivision</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>.
+				  The computation shall be made as follows:</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>The Department of Industrial Relations shall transmit annually to the Franchise Tax Board the percentage change in the California Consumer Price Index for all items from June of the prior calendar year to June of the current year, no later than August 1 of the current calendar year.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>The Franchise Tax Board shall compute an inflation adjustment factor by adding 100 percent to the portion of the percentage change figure that is furnished pursuant to paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>and dividing the result by 100.</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>for the preceding taxable year by the inflation adjustment factor determined in paragraph</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>shall be twice the amount provided in subparagraph (B) of paragraph</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_k">
+                <num>(k)</num>
+                <paragraph eId="sec_17053-5__subsec_k__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>shall be zero dollars ($0).</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of
+				  subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>is zero dollars ($0) pursuant to paragraph</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>, the credit amounts set forth in clause</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>of subparagraph (A) of, or clause</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_i">
+                <num>(i)</num>
+                <content>
+                  <p>of subparagraph (B), as applicable, of, paragraph</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_i__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>shall be the credit amounts for a qualified renter for the taxable year.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_l">
+                <num>(l)</num>
+                <content>
+                  <p>For the purposes of complying with Section 41, the Legislature finds and declares as follows:</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_l__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>is not zero dollars ($0), the Franchise Tax Board shall prepare a written report on both of the following:
+(A) The number of taxpayers claiming the credit.
+(B) The average credit amount on tax returns claiming the credit.</p>
+                </content>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_3">
+                  <num>(3)</num>
+                  <content>
+                    <p>The Franchise Tax Board shall provide the written report prepared pursuant to paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_2">
+                  <num>(2)</num>
+                  <content>
+                    <p>to the Senate Committee on Budget and Fiscal Review, the Assembly Committee on Budget, the Assembly and Senate Committees on Appropriations, the Senate Committee on Revenue and Taxation, and the Assembly Committee on Revenue and Taxation. The report shall be submitted in compliance with Section 9795 of the Government Code. The report shall be due July 1 two years following any taxable year that the credit under paragraph</p>
+                  </content>
+                </paragraph>
+                <paragraph eId="sec_17053-5__subsec_a__subsec_1">
+                  <num>(1)</num>
+                  <content>
+                    <p>of subdivision</p>
+                  </content>
+                </paragraph>
+              </subsection>
+              <subsection eId="sec_17053-5__subsec_k">
+                <num>(k)</num>
+                <content>
+                  <p>is not equal to zero dollars ($0).
+(Amended by Stats. 2025, Ch. 22, Sec. 65.   (AB 130)   Effective June 30, 2025.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Amended by Stats. 2025, Ch. 22, Sec. 65.   (AB 130)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/10211"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10211"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="10211"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/10211/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10211/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/10211/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10211/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_1">
+          <num>1</num>
+          <chapter eId="chp_1">
+            <num>1</num>
+            <section eId="sec_10211">
+              <num>10211</num>
+              <heading>Section 10211</heading>
+              <subsection eId="sec_10211__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>The department is hereby designated as the single state agency responsible for the promotion, development, and provision of care of children in the absence of their parents during the workday or while engaged in other activities which require assistance of a third party or parties. The department shall administer the federal Child Care and Development Fund.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10211__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>For purposes of this section, “Child Care and Development Fund” has the same meaning as in Section 98.2 of Title 45 of the Code of Federal Regulations.
+(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)   Effective July 23, 2021.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WIC">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-ca/act/wic/10207"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10207"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#california-legislature"/>
+          <FRBRcountry value="us-ca"/>
+          <FRBRnumber value="10207"/>
+          <FRBRname value="WIC"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-ca/act/wic/10207/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10207/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-ca/act/wic/10207/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-ca/act/wic/10207/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="california-legislature" href="https://leginfo.legislature.ca.gov" showAs="California State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <division eId="div_9">
+        <num>9</num>
+        <part eId="part_1">
+          <num>1</num>
+          <chapter eId="chp_1">
+            <num>1</num>
+            <section eId="sec_10207">
+              <num>10207</num>
+              <heading>The purpose of this part is as follows:</heading>
+              <subsection eId="sec_10207__subsec_a">
+                <num>(a)</num>
+                <content>
+                  <p>To provide a comprehensive, coordinated, and cost-effective system of child care and development services for children from infancy to 13 years of age and their parents, including a full range of supervision, health, and support services through full- and part-time programs.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_b">
+                <num>(b)</num>
+                <content>
+                  <p>To encourage community-level coordination in support of child care and development services.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_c">
+                <num>(c)</num>
+                <content>
+                  <p>To provide an environment that is healthy and nurturing for all children in child care and development programs.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_d">
+                <num>(d)</num>
+                <content>
+                  <p>To provide the opportunity for
+							 positive parenting to take place through understanding of human growth and development.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_e">
+                <num>(e)</num>
+                <content>
+                  <p>To reduce strain between parent and child in order to prevent abuse, neglect, or exploitation.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_f">
+                <num>(f)</num>
+                <content>
+                  <p>To enhance the cognitive development of children, with particular emphasis upon those children who require special assistance, including bilingual capabilities to attain their full potential.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_g">
+                <num>(g)</num>
+                <content>
+                  <p>To establish a framework for the expansion of child care and development services.</p>
+                </content>
+              </subsection>
+              <subsection eId="sec_10207__subsec_h">
+                <num>(h)</num>
+                <content>
+                  <p>To empower and encourage parents and families of children who require child care services to take responsibility to review the safety of the child care program or facility and to evaluate the ability of the program or facility to meet the needs of the
+							 child.
+(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)   Effective July 23, 2021.)</p>
+                </content>
+              </subsection>
+              <authorialNote marker="history">
+                <p>(Added by Stats. 2021, Ch. 116, Sec. 260.   (AB 131)</p>
+              </authorialNote>
+            </section>
+          </chapter>
+        </part>
+      </division>
+    </body>
+  </act>
+</akomaNtoso>
